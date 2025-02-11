@@ -15,9 +15,9 @@ Before running the automation, ensure the following:
 The input Excel file should have the following structure:
 
 ```plaintext
-| Patient ID | Name     | Age | Gender | Diagnosis | Doctor     | Date       |
-|------------|----------|-----|--------|-----------|------------|------------|
-| 001        | John Doe | 45  | Male   | Flu       | Dr. Smith  | 01/10/2024 |
+| Name       | Doctor Name | Date of Visit | Address Line 1 | Address Line 2 | Address Line 3 | City       | ZIP  |
+|------------|-------------|---------------|----------------|----------------|----------------|------------|------|
+| John Doe   | J Smith     | 3/3/2024      | 100 Any Road   | #12            | Manhattan      | New York   |10017 |
 ```
 
 ## Workflow Steps
