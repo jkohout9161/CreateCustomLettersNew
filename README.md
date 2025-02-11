@@ -16,7 +16,7 @@ The input Excel file should have the following structure:
 
 ```plaintext
 | Patient ID | Name     | Age | Gender | Diagnosis | Doctor     | Date       |
-|------------|---------|-----|--------|-----------|------------|------------|
+|------------|----------|-----|--------|-----------|------------|------------|
 | 001        | John Doe | 45  | Male   | Flu       | Dr. Smith  | 01/10/2024 |
 ```
 
