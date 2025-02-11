@@ -22239,15 +22239,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jorda\\.nuget\\packages\\": {}
+    "C:\\Users\\ellis\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "UnscheduledTreatmentFormAutomation",
       "projectName": "UnscheduledTreatmentFormAutomation",
-      "projectPath": "C:\\Users\\jorda\\OneDrive\\Public\\Documents\\UiPath\\UnscheduledTreatmentFormAutomation\\UnscheduledTreatmentFormAutomation\\.local",
-      "packagesPath": "C:\\Users\\jorda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorda\\OneDrive\\Public\\Documents\\UiPath\\UnscheduledTreatmentFormAutomation\\UnscheduledTreatmentFormAutomation\\.local"
+      "projectPath": "C:\\Users\\ellis\\OneDrive\\Documents\\UiPath\\CreateCustomLettersNew\\UnscheduledTreatmentFormAutomation\\.local",
+      "packagesPath": "C:\\Users\\ellis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ellis\\OneDrive\\Documents\\UiPath\\CreateCustomLettersNew\\UnscheduledTreatmentFormAutomation\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -22283,7 +22283,7 @@
             "version": "[1.20.3, 1.20.3]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\jorda\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\ellis\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
